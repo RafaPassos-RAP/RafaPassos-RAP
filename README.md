@@ -8,4 +8,4 @@ What I love most is diving into data: cleaning and wrangling messy datasets, bui
 
 
 ### My socials
-- You can reach me at my <a href="https://www.linkedin.com/in/rafael-passosdev">LinkedIn</a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-passosdev)
